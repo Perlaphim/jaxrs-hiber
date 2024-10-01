@@ -1,1 +1,1 @@
-# jaxrs6-hiber# jaxrs-hiber
+# jaxrs6-hiber
